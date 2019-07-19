@@ -3,6 +3,7 @@
 
 ## Getting Started
 
+- Install `npm start` to install all 
 - Run `npm start` to preview and watch for changes
 - Run `npm start -- --port=8080` to preview and watch for changes in port `8080`
 - Run `npm install --save <package>` to install dependencies, frontend included
